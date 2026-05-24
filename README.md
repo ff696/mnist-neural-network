@@ -5,7 +5,7 @@
 
 
 ## 模型权重
-已上传至 ModelScope:yskm2345/mnist-mlp-cnn-weights
+已上传至 ModelScope:[yskm2345/mnist-mlp-cnn-weights](https://modelscope.cn/models/yskm2345/mnist-mlp-cnn-weights)
 - MLP 最佳模型: best_model (1).pickle
 - CNN 最佳模型: best_model.pickle
 
